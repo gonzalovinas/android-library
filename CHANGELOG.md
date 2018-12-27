@@ -3,6 +3,15 @@ Android ChangeLog
 
 [Migration Guides](https://github.com/urbanairship/android-library/tree/master/documentation/migration)
 
+Version 9.6.1 - December 28, 2018
+=================================
+
+Changes
+-------
+
+- Updated to support along raw notification sounds also internals phone notification tones
+
+
 Version 9.6.0 - December 5, 2018
 ================================
 Minor release that targets Android P and updates dependencies.
